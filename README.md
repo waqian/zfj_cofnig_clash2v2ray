@@ -2,11 +2,11 @@
 
 # Clash 配置转换工具
 
-这是一个针对 [https://zfj.so](https://zfj.so) 的 Clash 配置转换工具。该工具可以将 Zfj 网站提供的订阅链接转换为适用于 Clash 的配置文件。
+这是一个针对 [https://zfj.so](https://zfj.so) 的 Clash 配置转换工具。该工具可以将 Zfj 网站提供的clash订阅链接转换为适用于 v2ray/passwall的配置文件。
 
 ## 功能
 
-- 将 Zfj 网站提供的订阅链接（例如： `https://zfj.so/xxxx`）转换为 Clash 配置文件。
+- 将 Zfj 网站提供的订阅链接（例如： `https://zfj.so/xxxx`）转换为 v2ray/passwall配置文件。
 - 允许用户自定义配置地址（需要手动修改配置文件中的链接）。
 - 请手动修改   config_url = "Your_VPN_clash_configuration_url "
 
