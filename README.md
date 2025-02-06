@@ -20,3 +20,6 @@
 
    ```bash
    git clone https://github.com/waqian/zfj_config_clash2v2ray.git
+   cd zfj_config_clash2v2ray
+   pip install -r requirements.txt
+   python clash_config_all_yaml.py
