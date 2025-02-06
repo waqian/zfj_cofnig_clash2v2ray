@@ -19,4 +19,4 @@
    克隆该项目到本地：
 
    ```bash
-   git clone https://github.com/waqian/zfj_cofnig_clash2v2ray.git
+   git clone https://github.com/waqian/zfj_config_clash2v2ray.git
