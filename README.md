@@ -6,7 +6,7 @@
 
 ## 功能
 
-- 将 Zfj 网站提供的订阅链接（例如： `https://zfj.so/xxxx`）转换为 v2ray/passwall配置文件。
+- 将 Zfj 网站提供的订阅链接（例如： `https://zfj.so/xxxx/clashold`）转换为 v2ray/passwall配置文件。
 - 允许用户自定义配置地址（需要手动修改配置文件中的链接）。
 - 请手动修改   config_url = "Your_VPN_clash_configuration_url "
 
