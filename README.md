@@ -1,0 +1,1 @@
+# zfj_cofnig_clash2v2ray
