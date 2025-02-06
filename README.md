@@ -1,4 +1,4 @@
-# zfj_cofnig_clash2v2ray
+# zfj_config_clash2v2ray
 
 # Clash 配置转换工具
 
